@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 // Find the character of an ASCII code
 // write a program that receives a character and displays its ASCII code
-public class ASCII_Code {
+public class Opgave4_8 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); // initialize new scanner object
         System.out.println("Please enter a character");
